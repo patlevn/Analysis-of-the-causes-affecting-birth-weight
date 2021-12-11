@@ -3,7 +3,7 @@ This is an analysis to find out what affects the weight of babies. After the ana
 
 ✔️ In this project, I used Supervised Learning with scikit-learn in Python (with OLS, Lasso, and ARD model). Based on the data, I noticed that the cigs, drink, mage, and fage are correlated. After analyzing the training and test data with the OLS model, I got the training score is 0.7287, the testing score is 0.6862, and the train-test gap is 0.0425.
 
-📚 I also did research and found that the data has an effect on a baby's birth weight. According to CDC (n.d), preterm birth, low birth weight, and birth abnormalities of the mouth and lip are all increased risks for growing kids when mothers smoke during pregnancy. In addition, Nidirect Government Service (n.d) stated that drinking too much alcohol during pregnancy can result in early birth, low birth weight, and a negative impact on the child's physical and mental development, a disease known as Foetal Alcohol Syndrome (FAS). Marsden (2021) said that lower birth weight babies are correlated to teenage and 35-year-old mothers.
+📚 I also did some researches and found that the data has an effect on a baby's birth weight. According to CDC (n.d), preterm birth, low birth weight, and birth abnormalities of the mouth and lip are all increased risks for growing kids when mothers smoke during pregnancy. In addition, Nidirect Government Service (n.d) stated that drinking too much alcohol during pregnancy can result in early birth, low birth weight, and a negative impact on the child's physical and mental development, a disease known as Foetal Alcohol Syndrome (FAS). Marsden (2021) said that lower birth weight babies are correlated to teenage and 35-year-old mothers.
 
 
 
