@@ -1,4 +1,4 @@
-# Analysis-of-the-causes-affecting-birth-weight
+# Analysis of the causes affecting birth-weight
 This is an analysis to find out what affects the weight of babies. After the analysis, I realized that people who smoke, and regularly drink alcohol have a great influence on birth weight. In addition, the age of the parents also has an impact.
 ✔️ In this project, I used Supervised Learning with scikit-learn in Python. Based on the data, I noticed that the cigs, drink, mage, and fage are correlated. After analyzing the training and test data with the OLS model, I got the training score is 0.7287, the testing score is 0.6862, and the train-test gap is 0.0425.
 
