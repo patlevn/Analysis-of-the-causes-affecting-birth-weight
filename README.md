@@ -10,6 +10,8 @@ This is an analysis to find out what affects the weight of babies. After the ana
 🔗 Reference:
 
 CDC (n.d). Learn about substance use during pregnancy and CDC activities to address this important health topic. Retrieved on November 24, 2021. Available at: https://www.cdc.gov/reproductivehealth/maternalinfanthealth/substance-abuse/substance-abuse-during-pregnancy.htm 
+
 Marsden (2021). 10 Factors That Affect A Baby's Birth Weight. Retrieved on November 24, 2021. Available at: https://www.marsden-weighing.co.uk/blog/factors-affect-baby-birth-weight#:~:text=A%20baby%20generally%20inherits%20half,weight%20has%20an%20impact%20too.
+
 Nidirect Government Service (n.d). Alcohol, smoking and drugs in pregnancy. Retrieved on November 24, 2021. Available at: https://www.nidirect.gov.uk/articles/alcohol-smoking-and-drugs-pregnancy
 
